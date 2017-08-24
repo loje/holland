@@ -1,0 +1,26 @@
+.btnSubmit{
+	position: fixed;
+	left: 40px;
+	bottom:20px;
+}
+.here{
+	position: fixed;
+	right: 40px;
+	bottom: 20px;
+}
+.inp{
+	position: fixed;
+	top:20px;
+	right: 40px;
+	width: 40%;
+}
+.input-group{
+	margin: 10px 0;
+}
+
+p{
+	margin-top: 30px;
+}
+.radio-inline{
+	margin-bottom: 15px;
+}
